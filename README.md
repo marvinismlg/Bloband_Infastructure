@@ -3,7 +3,7 @@
 
 BlobInfra is a Raspberry Pi-powered hosting project built to keep our Minecraft world, **BloblandSMP**, running independently.
 
-Our goal is simple: build a server we fully own and control, automate its maintenance, and preserve our Minecraft world for years to come.
+The goal of the infastructure: build a server we fully own and control, automate its maintenance, and preserve our Minecraft world for years to come.
 
 The project combines hardware configuration, Linux server administration, automated GitHub backups, software updates, and remote server management into a single self-hosted system.
 
